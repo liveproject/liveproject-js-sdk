@@ -4,3 +4,6 @@
 [submodule "zepto"]
 	path = zepto
 	url = https://github.com/madrobby/zepto.git
+[submodule "extDate"]
+	path = extDate
+	url = https://github.com/staer/extDate.git
