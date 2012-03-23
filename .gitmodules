@@ -1,0 +1,3 @@
+[submodule "backbone-tastypie"]
+	path = backbone-tastypie
+	url = https://github.com/PaulUithol/backbone-tastypie.git
