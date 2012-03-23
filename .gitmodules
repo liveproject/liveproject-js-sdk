@@ -1,3 +1,6 @@
 [submodule "backbone-tastypie"]
 	path = backbone-tastypie
 	url = https://github.com/PaulUithol/backbone-tastypie.git
+[submodule "zepto"]
+	path = zepto
+	url = https://github.com/madrobby/zepto.git
